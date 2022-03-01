@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd3397dD9C9a0f61dd3588beEDcC8f9333D8Bc141",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xd3397dd9c9a0f61dd3588beedcc8f9333d8bc141",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "ViperChallenge",
+  "SYMBOL": "VCNFT",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/viperchallenge",
+  "SHOW_BACKGROUND": true
+}
